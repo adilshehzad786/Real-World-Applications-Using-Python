@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = ""
+name = "package-json"
+optional = false
+python-versions = "*"
+version = "0.0.0"
+
+[metadata]
+content-hash = "7437ddc7b667474ac894a458507444c580f7281108262a26297aef2384ba875d"
+python-versions = "^3.7"
+
+[metadata.hashes]
+package-json = ["596a922df38a3e2022c6f8fed1d0041239bca09eb170bfcc8a28f78bf41bb9f5"]
