@@ -47,6 +47,7 @@ Use case &amp; Future Scope
 <li>Threshold based motion detection, ignore mask, multiple object marking and video recording.</li>
 <li>Human feature detection with the ability to train your own detector.</li>
 <li>Add your own plugins.</li>
+  <li>Send Your Logs Via Email, Twilio Sms </li>
 </ul>
 <p>Help me with a <g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐️</g-emoji> if you like my work. <img class="emoji" title=":bowtie:" alt=":bowtie:" src="https://github.githubassets.com/images/icons/emoji/bowtie.png" height="10" width="10" align="absmiddle">
 happy Coding ! <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji></p>
